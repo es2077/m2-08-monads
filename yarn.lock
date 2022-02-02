@@ -516,6 +516,11 @@ react@17.0.0:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
+rescript-webapi@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/rescript-webapi/-/rescript-webapi-0.4.1.tgz#66b66e6cf5d51ad93a9e88a0c987d039cb6b76cc"
+  integrity sha512-Fc9aiN54+Hnr1/hKDQUQcukgUGjWx3QGjE/HHMFcqlIPJHli33fkdurU7L9KfsnpJYxR/VRk7BfWXpq6h8WyHw==
+
 rescript@9.1.4:
   version "9.1.4"
   resolved "https://registry.yarnpkg.com/rescript/-/rescript-9.1.4.tgz#1eb126f98d6c16942c0bf0df67c050198e580515"
